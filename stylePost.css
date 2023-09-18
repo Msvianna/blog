@@ -61,6 +61,11 @@ article{
 p{
   margin:30px;
 }
+.avatar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 footer{
   
   color: #776a6e;
@@ -71,7 +76,7 @@ footer{
   flex-shrink: 0;
   bottom: 0;
     width: 100%;
-  padding-top: 20em;
+  padding-top: 2em;
 }
 a{
   text-decoration: none;
