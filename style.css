@@ -37,7 +37,7 @@ header{
   gap:20px;
 }
 .name:hover{
-  color:white;
+  color:#effdf7;
   background-color:#4B4952;
  
 }
@@ -77,7 +77,7 @@ border: 1px solid rgba(255, 255, 255, 0.09);
 }
 footer{
   
-  color: #776a6e;
+  color: #effdf7;
   display: flex;
     flex-direction: column;
     align-items: center;
