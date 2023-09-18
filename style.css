@@ -100,10 +100,11 @@ footer:hover{
 }*/
 
 @media (max-width: 660px) {
-.name:hover {
-  color:#effdf7;
-  background-color: #4b4952;
-}
+.name{
+    color:#effdf7;
+    width: 100%;
+    background-color:#4B4952;
+  }
 
 .card{
   width: 100%;
